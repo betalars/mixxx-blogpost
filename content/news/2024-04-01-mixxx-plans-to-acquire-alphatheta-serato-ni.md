@@ -1,8 +1,8 @@
 title: Mixxx Plans to Acquire AlphaTheta, Serato and Native Instruments
 authors: Jan Holthuis
 tags: takeover, super important business decision
-status: draft
 comments: yes
+date: 2024-04-01 11:32:09
 
 
 The Mixxx Board of Directors in pleased to announce plans to acquire the AlphaTheta Corporation (formerly known as Pioneer DJ), Serato Audio Research Ltd. and Native Instruments.
