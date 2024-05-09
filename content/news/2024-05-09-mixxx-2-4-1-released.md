@@ -2,7 +2,7 @@ title: Mixxx 2.4.1 released
 authors: Evelynne Veys
 tags: 2.4, 2.4.1, release announcement
 comments: yes
-status: draft
+date: 2024-05-09 15:07:38
 
 #### Dear Mixxx-ers
 
