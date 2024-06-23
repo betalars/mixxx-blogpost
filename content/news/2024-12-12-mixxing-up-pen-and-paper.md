@@ -52,4 +52,58 @@ Well that is easier said than done.
 
 Video game soundtracks are weird pieces of music, because play is unpredictable. Players will take different amounts of time to go trough each level, so a Soundtrack has to adapt to this.
 
-This can lead to the pieces of music that are actually being used in a videogame being quite specific, quite fragmented and not a pleasant listen. For a release on spotify or as bonus content, the original game sound files are being mixed down, sometimes with more sometimes with less effort. And this is what I have to work with.
+This can lead to the pieces of music that are actually being used in a videogame being quite specific, quite fragmented and not useful for listening on its own. For a release on spotify or as bonus content, the original game sound files are being merged into pleasant songs, sometimes with more, sometimes with less effort. And this is what I have to work with.
+
+And of course you can just take these and put them on loop in VLC. But especially modern game soundtracks will vary widely in theme within a single song, so you constantly switch between motions on a looping timer and then there are also intros and outros to add further annoyances.
+
+But we have mixxx and with the newly-added loop cues, we can work with almost every quirk game soundtracks can throw at us.
+
+### Cinematic Songs
+Most game soundtracks will have some songs made for specific cinematics or cut-scenes. They generally get sorted into the "overly specific" crate for me.
+
+That is because of the strong thematic flow and sometimes even tempo shifts, that make them really difficult to mix for me.
+
+However: when planning a scene to follow the beats a song, these  will create some really spectacular moments. You just have to practice your timing and be a very confident Dungeon Master if you want to allow player interaction in the fixed time frame oft these songs.
+
+### Simple looping Songs
+The "old-shool" way of implementing dynamic game music is just to have some infinitely looping songs and switching between them depending on context.
+
+It is a lot more common in older games but the Witcher 3 Soundtrack also work like this.
+
+Most songs will have a brief intro, a thematically consistent main loop and a brief outro that sometimes just consists of the main loop fading out.
+
+These always have been pretty easy to work with and require no more prep than finding loop in and loop out point. Bonus points for setting an intro and outro marker too.
+
+
+Baldours Gate 3 uses cues alongside this concept. The party manages to land an important hit? Jump to the slightly uplifting bit. Boss does something scary? Theres a cue for that too.
+And when the party decides to think about their next move for 6 minutes, they will just hear the whole combat theme twice.
+
+The great thing when mixing these: I can let them play in the background without ever having to think about them, but I can also add some flair with cues.
+
+
+### Layered Loops
+What I described in the intro is an example for a layered song. This one has a base melody for the spooky ambiance and one "voice" track on top of that being layered in the closer you get to the cube.
+
+Great soundtracks (for my use case) will have all layers put behind each other in ascending order and allow me to progress trough multiple same-length loops in a song as a scene gets more and more tense. This used to be pretty easy even before Mixxx introduced loop cues.
+
+However when the composers werent lazy when mixing down these soundtracks for an OST release, like with portal 2, these are the least uable files for me unfortunately.
+
+
+### Multiple transitioning Loops
+This is the by far most common format of big name game soundtracks by now - and before the introduction of loop cues in 2.4.1, it was mostly unusable for me.
+
+These soundtracks consist of multiple looping themes that will fit each setting in an entire area of a game. There are ambiance bits, there are combat bits, there may be a theme for the town square. The often varying lenghts of those loops made it really difficult to use for me. I mean ... still no challenge for a dedicated DJ.
+
+But a storyteller having to allocate their brain to running a pen and paper session alongside mixing? No chance.
+
+Loop Cues however fixed that for me. I can now just set up to eight loops of different sizes within a single audio file and this has made some of my least favorite music pieces to my most favorite.	
+
+
+## So is it worth it?
+Honestly the prep work I put into these soundtracks so far has not always payed out as much as I would have wanted. It is a lot of fun to slice and dice video game songs and build a huge library of potential epic moments in pen and paper.
+
+However as sessions often do not work as planned, trying to always find and think of the perfect music on the fly can be quite challenging. Especially because me fiddling with music is distracting in itself.
+
+I highly reccomend creating a playlist for each session and having some general purpose playlists to jump into when the players inevitably drift of. Themes for places or characters (both player and non-player) can also make a big difference and are not too difficult to keep track of.
+
+However I think a dedicated app with a lot more creature comforts and a lot less DJ-specific features would be needed to make this useful for the average DM. But I think that is fine. Because eveyone has their own secret sauce for spycing up their campaigns. And mine is music.
