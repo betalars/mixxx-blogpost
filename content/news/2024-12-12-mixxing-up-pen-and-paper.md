@@ -17,7 +17,7 @@ comments: yes
 >
 > *She is out to kill you.*
 > 
-> The harsh red light of a lazeer illuminates the huge test chamber, when suddenly, a cube drops from the ceiling. But it is not like the others. Every Cube had a Aperture Logo on it. But this one ... a heart? Memories of betraying an old friend flash before your eyes.
+> The harsh red light of a laser illuminates the huge test chamber, when suddenly, a cube drops from the ceiling. But it is not like the others. Every Cube so far had an Aperture printed on it. But this one ... a heart? Memories of betraying an old friend flash before your eyes.
 >
 > You get closer, carefully stepping over the deadly laser beam, when you hear a faint sound. It is friendly. It does not want to hurt you.
 >
@@ -25,23 +25,24 @@ comments: yes
 > Is that voice coming from the ... cube?  
 > You crouch next to it.
 >
-> It hums. A small melody. Fihgting against the eary noise around you.
+> It hums. A small melody. Fighting against the eary noise around you.
 
-If I had to pick a favorite moment in a video game, it would be this: a perfect exampple of how mixing and dynamic soundtracks can not only enhancing, but telling a story outright.
+If I had to pick a favorite moment in a video game, it would be this: a perfect exampple of how mixing and dynamic soundtracks can not only enhance, but tell a story outright.
+
+So let's use this to spice up pen and paper.
 
 So: let's use this to spice up pen and paper.
 
-## Using Mixxx for Pen and Paper
-There are many different flavors of Table Top Role Playing Games like Dungeons and Dragons, Vampires the Mascarade and Fate. And there are many ways to play it. Some like it silly, some like it tectical, and I personally like it intense and immsersive.
+## Why use Mixxx for Pen and Paper
+There are many different flavors of Table Top Role Playing Games like Dungeons and Dragons, Vampires the Mascarade or Fate. And there are many ways to play it. Some like it silly, some like it tectical, and I personally like it intense and immsersive.
 
 And Music is great for this.
 
 Most Storytellers will just use one of the many playlists offered by youtube or one of the many online tabletop audio apps. But that never really worked for me.
 
 One obvious reason is: Internet on Pen and Paper Cons is often bad.
-But there is one more reason.
 
-I like running campaigns in existing worlds. Alan Wake, Halo, Baldours Gate, Darksiders, Dark Souls - many games with very memorable soundtracks.
+But I also like running campaigns in existing worlds. Alan Wake, Halo, Baldours Gate, Darksiders, Dark Souls - many games with very memorable soundtracks.
 
 So just use these Soundtracks for my campaigns?
 
