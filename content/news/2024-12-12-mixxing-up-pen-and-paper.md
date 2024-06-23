@@ -31,7 +31,7 @@ If I had to pick a favorite moment in a video game, it would be this: a perfect 
 
 So let's use this to spice up pen and paper.
 
-So: let's use this to spice up pen and paper.
+*[Play "Love as a construct" from Portal 2 on YouTube Music.](https://music.youtube.com/watch?v=UNhBzbN2rnA&si=Q_mS2JkBDS50xXbC)*
 
 ## Why use Mixxx for Pen and Paper
 There are many different flavors of Table Top Role Playing Games like Dungeons and Dragons, Vampires the Mascarade or Fate. And there are many ways to play it. Some like it silly, some like it tectical, and I personally like it intense and immsersive.
@@ -47,6 +47,8 @@ But I also like running campaigns in existing worlds. Alan Wake, Halo, Baldours 
 So just use these Soundtracks for my campaigns?
 
 Well that is easier said than done.
+
+*[Play "Never split the Party"](https://www.youtube.com/watch?v=k6y4XYxhA-o)*
 
 ## How does a video game soundtrack work?
 
@@ -65,6 +67,8 @@ That is because of the strong thematic flow and sometimes even tempo shifts, tha
 
 However: when planning a scene to follow the beats a song, these  will create some really spectacular moments. You just have to practice your timing and be a very confident Dungeon Master if you want to allow player interaction in the fixed time frame oft these songs.
 
+*[Watch "Hyper Light Drifter - Opening"](https://www.youtube.com/watch?v=9rVdUufUBss)*
+
 ### Simple looping Songs
 The "old-shool" way of implementing dynamic game music is just to have some infinitely looping songs and switching between them depending on context.
 
@@ -74,12 +78,14 @@ Most songs will have a brief intro, a thematically consistent main loop and a br
 
 These always have been pretty easy to work with and require no more prep than finding loop in and loop out point. Bonus points for setting an intro and outro marker too.
 
+*[Play "Commanding the Fury" (Witcher 3)](https://music.youtube.com/watch?v=1lyYkXEQd24&list=OLAK5uy_mCEI_dk83gKOMlNZa8xX1YTT2imtILM2E)*
 
 Baldours Gate 3 uses cues alongside this concept. The party manages to land an important hit? Jump to the slightly uplifting bit. Boss does something scary? Theres a cue for that too.
 And when the party decides to think about their next move for 6 minutes, they will just hear the whole combat theme twice.
 
 The great thing when mixing these: I can let them play in the background without ever having to think about them, but I can also add some flair with cues.
 
+*[Play "Sixteen Strikes" (Baldours Gate 3)](https://music.youtube.com/watch?v=NiSDtrVphZc)*
 
 ### Layered Loops
 What I described in the intro is an example for a layered song. This one has a base melody for the spooky ambiance and one "voice" track on top of that being layered in the closer you get to the cube.
@@ -88,6 +94,7 @@ Great soundtracks (for my use case) will have all layers put behind each other i
 
 However when the composers werent lazy when mixing down these soundtracks for an OST release, like with portal 2, these are the least uable files for me unfortunately.
 
+*[Play "Covenant Prayers" (Halo 5)](https://music.youtube.com/watch?v=ofWai1rsI9k)*
 
 ### Multiple transitioning Loops
 This is the by far most common format of big name game soundtracks by now - and before the introduction of loop cues in 2.4.1, it was mostly unusable for me.
@@ -98,6 +105,7 @@ But a storyteller having to allocate their brain to running a pen and paper sess
 
 Loop Cues however fixed that for me. I can now just set up to eight loops of different sizes within a single audio file and this has made some of my least favorite music pieces to my most favorite.	
 
+*[Play "a Pirate's Life" (Assasins Creed IV - Black Flag)](https://music.youtube.com/watch?v=AuEXQnH_jOU)*
 
 ## So is it worth it?
 Honestly the prep work I put into these soundtracks so far has not always payed out as much as I would have wanted. It is a lot of fun to slice and dice video game songs and build a huge library of potential epic moments in pen and paper.
@@ -107,3 +115,9 @@ However as sessions often do not work as planned, trying to always find and thin
 I highly reccomend creating a playlist for each session and having some general purpose playlists to jump into when the players inevitably drift of. Themes for places or characters (both player and non-player) can also make a big difference and are not too difficult to keep track of.
 
 However I think a dedicated app with a lot more creature comforts and a lot less DJ-specific features would be needed to make this useful for the average DM. But I think that is fine. Because eveyone has their own secret sauce for spycing up their campaigns. And mine is music.
+
+*About the YouTube Music links: I do not want to endorse that service, but there are four facts of life that made me choose this option.*  
+*1. Game Soundtracks are proprietary.*   
+*2. They are all on YouTube Music.*  
+*3. Everyone and their dog has a google account.*  
+*4. The site to get all the portal 2 music from comes from the era before https was widely used everywhere.*
