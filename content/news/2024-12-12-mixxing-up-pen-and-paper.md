@@ -44,6 +44,6 @@ Well that is easier said than done.
 
 ## How does a video game soundtrack work?
 
-Video game soundtracks are weird pieces of music, because play is unpredictable. Players will take different amounts of time tO go trough each level, so a Soundtrack has to adapt to this.
+Video game soundtracks are weird pieces of music, because play is unpredictable. Players will take different amounts of time to go trough each level, so a Soundtrack has to adapt to this.
 
 This can lead to the pieces of music that are actually being used in a videogame being quite specific, quite fragmented and not a pleasant listen. For a release on spotify or as bonuc content, the original game sound files are being mixed down, sometimes with more sometimes with less effort. And this is what I have to work with.
