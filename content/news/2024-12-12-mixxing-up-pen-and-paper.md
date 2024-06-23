@@ -22,7 +22,7 @@
 >
 > It hums. A small melody. Fihgting against the eary noise around you.
 
-If I had to pick a favorite moment in a video game, it would be this: a perfect exampple of how mixxing and dynamic soundtracks can not only enhancing, but telling a story outright.
+If I had to pick a favorite moment in a video game, it would be this: a perfect exampple of how mixing and dynamic soundtracks can not only enhancing, but telling a story outright.
 
 So: let's use this to spice up pen and paper.
 
