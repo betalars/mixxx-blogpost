@@ -1,4 +1,9 @@
-# Mixxxing up Pen and Paper
+title: Mixxxing up Role Playing
+authors: betalars
+status: draft
+tags: user storys
+comments: yes
+
 
 > It is cold and moist. You are deep within the belly of a huge mashine surrounded by overgrowth and broken glass. You know she wants to kill you. After all: you did the same to her. She wants revenge and the only thing keeping you alive is her unstoppable desire to test.
 >
