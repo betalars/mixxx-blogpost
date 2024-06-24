@@ -30,7 +30,7 @@ comments: yes
 If I had to pick a favorite moment in a video game, it would be this: a perfect example of how mixing and dynamic soundtracks can not only enhance, but tell a story outright.
 So let's use this to spice up pen and paper.
 
-*[Play "Love as a construct" from Portal 2 on YouTube Music.](https://music.youtube.com/watch?v=UNhBzbN2rnA&si=Q_mS2JkBDS50xXbC)*
+*[Play "Love as a construct" from Portal 2 on YouTube Music.](https://music.youtube.com/watch?v=UNhBzbN2rnA)*
 
 ## Why use Mixxx for Pen and Paper
 
