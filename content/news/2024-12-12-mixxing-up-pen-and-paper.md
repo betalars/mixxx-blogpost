@@ -77,7 +77,7 @@ Most songs will have a brief intro, a thematically consistent main loop and a br
 
 These always have been pretty easy to work with and require no more prep than finding loop in and loop out point. Bonus points for setting an intro and outro marker too.
 
-*[Play "Commanding the Fury" (Witcher 3)](https://music.youtube.com/watch?v=1lyYkXEQd24&list=OLAK5uy_mCEI_dk83gKOMlNZa8xX1YTT2imtILM2E)*
+*[Play "Commanding the Fury" (Witcher 3)](https://music.youtube.com/watch?v=1lyYkXEQd24)*
 
 Baldur's Gate 3 uses cues alongside this concept. The party manages to land an important hit? Jump to the slightly uplifting bit. Boss does something scary? There's a cue for that too.
 And when the party decides to think about their next move for 6 minutes, they will just hear the whole combat theme twice.
