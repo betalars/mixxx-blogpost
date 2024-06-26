@@ -32,6 +32,8 @@ So let's use this to spice up pen and paper.
 
 *[Play "Love as a construct" from Portal 2 on YouTube Music.](https://music.youtube.com/watch?v=UNhBzbN2rnA)*
 
+*As music is better listened to than explained, I curated some songs for you. I use YouTube not because it is my favorite platform, but because it likely is the most accessible.*
+
 ## Why use Mixxx for Pen and Paper
 
 There are many different flavors of Tabletop Role Playing Games like Dungeons and Dragons, Vampires the Masquerade or Fate. And there are many ways to play it. Some like it silly, some like it tactical, and I personally like it intense and immersive.
@@ -114,9 +116,3 @@ However as sessions often do not work as planned, trying to always find and thin
 I highly recommend creating a playlist for each session and having some general purpose playlists to jump into when the players inevitably drift off. Themes for places or characters (both player and non-player) can also make a big difference and are not too difficult to keep track of.
 
 However I think a dedicated app with a lot more creature comforts and a lot less DJ-specific features would be needed to make this useful for the average DM. But I think that is fine. Because everyone has their own secret sauce for spicing up their campaigns. And mine is music.
-
-*About the YouTube Music links: I do not want to endorse that service, but there are four facts of life that made me choose this option.*  
-*1. Game Soundtracks are proprietary.*   
-*2. They are all on YouTube Music.*  
-*3. Everyone and their dog has a google account.*  
-*4. The site to get all the portal 2 music from comes from the era before https was widely used everywhere.*
